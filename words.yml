@@ -11,26 +11,74 @@
  contents: 言い出しっぺの法則：オープンソース界隈ではよく言われる。「欲しいものは、欲しいと言い出した人が自分で作るべき」という考え方です。それを本当にほしいと思う人が、作るモチベーションが一番高いことは間違いありません。 
  url: http://bit.ly/aE6qt4
 4:
- contents: 
+ contents: 機能を追加しやすい構造になっていないプログラムに機能を追加しなければならなくなったら、まずプログラムをリファクタリングして作業をしやすくしてから追加すること by リファクタリング：Rubyエディション
  url: http://amzn.to/audtNq
 5:
- contents: 
+ contents: リファクタリングするとき、最初の一歩はいつも同じだ。その部分のコードをためしにしっかりとしたテストセットを作ることである。テストはとても大切だ by リファクタリング：Rubyエディション 
  url: http://amzn.to/audtNq
 6:
- contents: 
+ contents: リファクタリングでは、テストは命綱になる by リファクタリング：Rubyエディション 
  url: http://amzn.to/audtNq
 7:
- contents: 
+ contents: リファクタリングを始める前に、しっかりとしたテストスイートを用意しよう。テストは自己診断テストでなければならない。by リファクタリング：Rubyエディション 
  url: http://amzn.to/audtNq
 8:
- contents: 
+ contents: テストで大切なことは、どんなに小さなものでも、変更を加えた後には必ずテストを実行し、しくじったときに問題点を見つけるためにあちこちを見なくても済むようにすることである by リファクタリング：Rubyエディション 
  url: http://amzn.to/audtNq
 9:
- contents: 
+ contents: リファクタリングでは、プログラムを少しずつ変更すること。そうすれば、間違えても簡単にバグを見つけられる by リファクタリング：Rubyエディション 
  url: http://amzn.to/audtNq
 10:
- contents: 
+ contents: コンピュータが理解できるコードは誰でも書ける。優れたプログラマが書くのは、人間が理解できるコードだ by リファクタリング：Rubyエディション 
  url: http://amzn.to/audtNq
 11:
+ contents: 
+ url: http://amzn.to/audtNq
+12:
+ contents: 
+ url: http://amzn.to/audtNq
+13:
+ contents: 
+ url: http://amzn.to/audtNq
+14:
+ contents: 
+ url: http://amzn.to/audtNq
+15:
+ contents: 
+ url: http://amzn.to/audtNq
+16:
+ contents: 
+ url: http://amzn.to/audtNq
+17:
+ contents: 
+ url: http://amzn.to/audtNq
+18:
+ contents: 
+ url: http://amzn.to/audtNq
+19:
+ contents: 
+ url: http://amzn.to/audtNq
+20:
+ contents: 
+ url: http://amzn.to/audtNq
+21:
+ contents: 
+ url: http://amzn.to/audtNq
+22:
+ contents: 
+ url: http://amzn.to/audtNq
+23:
+ contents: 
+ url: http://amzn.to/audtNq
+24:
+ contents: 
+ url: http://amzn.to/audtNq
+25:
+ contents: 
+ url: http://amzn.to/audtNq
+26:
+ contents: 
+ url: http://amzn.to/audtNq
+27:
  contents: 
  url: http://amzn.to/audtNq
