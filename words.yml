@@ -41,44 +41,93 @@
  contents: 可読性：アメリカでのベストセラー作家のほとんどが、中学1年レベルに合わせて文章を書いている。専門家は、法律や 医療に関する情報を中学1年レベルに合わせて書くことを推奨している  
  url: http://htn.to/9jRqKt
 14:
- contents: 
- url: http://amzn.to/audtNq
+ contents: 物に話しかけるテクニック「ラバーダッキング」  
+ url: http://bit.ly/bb7qkt
 15:
- contents: 
- url: http://amzn.to/audtNq
+ contents: ブルックスの法則 - 「遅れているソフトウェアプロジェクトへの要員追加 はさらに遅らせるだけだ」 
+ url: http://bit.ly/pthMg
 16:
- contents: 
- url: http://amzn.to/audtNq
+ contents: 簡潔さは力なり - まつもとひろゆきコードの世界
+ url: http://amzn.to/bUdduX
 17:
- contents: 
- url: http://amzn.to/audtNq
+ contents: DRYは特にコンピューティングの領域において、重複を防ぐ考え方である。この哲学は、情報の重複は変更の困難さを増大し透明性を減少させ、不一致を生じる可能性につながるため、重複するべきでないことを強調する
+ url: http://bit.ly/9XwAJH
 18:
- contents: 
- url: http://amzn.to/audtNq
+ contents: Write Less Code 
+ url: 　
 19:
- contents: 
- url: http://amzn.to/audtNq
+ contents: Make it fun!
+ url: 　
 20:
- contents: 
- url: http://amzn.to/audtNq
+ contents: Build great software with small teams of happy programmers 
+ url: 　
 21:
- contents: 
+ contents: KISSの原則 - Keep it simple, stupid（シンプルにしておけ！この間抜け）という経験的な原則 
  url: http://amzn.to/audtNq
 22:
- contents: 
- url: http://amzn.to/audtNq
+ contents: マーフィーの法則 - 「落としたトーストがバターを塗った面を下にして着地する確率は、カーペットの値段に比例数する」をはじめとする、先達の経験から生じた数々のユーモラスでしかも哀愁に富む経験則をまとめたものである
+ url: 　
 23:
- contents: 
- url: http://amzn.to/audtNq
+ contents: ムーアの法則 - 最小部品コストに関連する集積回路におけるトランジスタの集積密度は、18〜24か月ごとに倍になる、という経験則である 
+ url: 　
 24:
- contents: 
- url: http://amzn.to/audtNq
+ contents: フェルミ推定 - 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算すること。フェルミ問題と呼ぶことがある。 
+ url:  
 25:
- contents: 
- url: http://amzn.to/audtNq
+ contents: 行き詰ったときにそこの背景にある理論に立ち戻る 
+ url: http://bit.ly/aG3gjn
 26:
- contents: 
- url: http://amzn.to/audtNq
+ contents: 可視化 - 間が直接「見る」ことのできない現象や事象、あるいは関係性を、「見る」ことのできるもの(画像、映像、グラフ、図、表など)にすることをいう
+ url: http://bit.ly/ckxFze
 27:
+ contents: CoC（設定より規約）- 設定より規約（英: convention over configuration）とは、開発者の決定すべきことを減少させ、単純にするが柔軟性は失わせないというソフトウェア設計パラダイム
+ url: http://bit.ly/9VY9lu
+28:
+ contents: DSL（ドメイン固有言語） - ドメイン固有言語（Domain-Specific Language、DSL）とは、特定のタスク向けに設計されたプログラミング言語を意味する
+ url: http://bit.ly/9kEVjI 
+29:
+ contents: デザインパターン (ソフトウェア) (GoFによる23のパターン) 
+ url: http://bit.ly/9x697T 
+30:
+ contents: Active Record（アクティブ・レコード）とは、プログラミングにおいて、企業アプリケーションで頻繁に認められるデザインパターンである 
+ url: http://bit.ly/ax0u59
+31:
+ contents: スクラム（英: Scrum）は、ソフトウェア開発における軽量なアジャイルソフトウェア開発手法の1つである
+ url: http://bit.ly/biPuEx
+32:
+ contents: MVC　（Model View Controller）
+ url: http://bit.ly/cP8BkL
+33:
+ contents: アジャイルソフトウェア開発 (アジャイルソフトウェアかいはつ、英: agile software development) は、ソフトウェア工学において迅速かつ適応的にソフトウェア開発を行う軽量な開発手法群の総称である
+ url: http://bit.ly/dpRxWy 
+34:
+ contents: オブジェクト指向とは、オブジェクト同士の相互作用としてシステムの振る舞いをとらえる考え方である。英語の object-oriented (直訳は、「対象物志向の」・「目的重視の」という意味の形容詞) の日本語訳である 
+ url: http://bit.ly/9gcqBb 
+35:
+ contents: 統一モデリング言語は、ソフトウェア工学におけるオブジェクトモデリングのために標準化した仕様記述言語である 
+ url: http://bit.ly/aRjASn 
+36:
+ contents: エクストリーム・プログラミング(Extreme Programming, XP)は、ケント・ベックらによって定式化され、提唱されているソフトウェア開発手法であり、特にビジネス上の要求が刻々と変わるような状況に向いた開発手法である 
+ url: http://bit.ly/a2SFkw 
+37:
+ contents: コードレビューは、ソフトウェア開発工程で見過ごされた誤りを検出・修正するためにソースコードの体系的な検査（査読）を行うこと。ソフトウェア品質を高めると同時に開発スキルの向上を図ることができる
+ url: http://bit.ly/cVRwT3 
+38:
+ contents: ペアプログラミングは、2人のプログラマが1台のワークステーションを使って共同でソフトウェア開発を行う手法である。一方が単体テストを打ち込んでいるときに、もう一方がそのテストを通るクラスについて考えるといったように、相補的な作業をする 
+ url:　 
+39:
+ contents: TDD では、テストと実装両方に自信がある時は「明白な実装」、一歩一歩進めたい、つまりテストをテストして、そのあとで実装をテストしたい時は「仮実装」と「三角測量」の組み合わせを使います 
+ url: http://bit.ly/bikpsD 
+40:
+ contents: 驚き最小の原則とは、ユーザインタフェースやプログラミング言語の設計および人間工学において、インタフェースの2つの要素が互いに矛盾あるいは不明瞭だったときに、その動作としては人間の ユーザやプログラマが最も自然に思える（驚きが少ない）ものを選択すべきだとする考え方である 
+ url: 　
+41:
  contents: 
- url: http://amzn.to/audtNq
+ url: 
+42:
+ contents: 
+ url: 
+43:
+ contents: 
+ url: 
+
