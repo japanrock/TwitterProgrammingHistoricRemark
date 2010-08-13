@@ -209,7 +209,7 @@
  contents: 人間は間違いを犯すものだ。。。間違いをコンピュータのせいにするのはもっと人間的だ。むしろ自然だ。
  url: http://bit.ly/9euyEm
 71:
- contents: Most of you are familiar with the virtues of a programmer.  There are three, of course: laziness, impatience, and hubris. 
+ contents: Most of you are familiar with the virtues of a programmer. There are three, of course, laziness, impatience, and hubris. 
  url: Larry Wall 
 72:
  contents: プログラミング作法とは、すなわち思考の抽象化の作法である。
@@ -263,38 +263,107 @@
  contents: プログラマの仕事はプログラムを読むことである 
  url: http://bit.ly/9ORDuy
 89:
- contents: 
- url: 
+ contents: 水の上を歩くのと、仕様からのソフトウエア開発は、簡単だ。・・・両方とも凍っているならの話だが。 
+ url: http://bit.ly/arE1Gc
 90:
- contents: 
- url: 
+ contents: デバッグ作業は、最初にコードを書くときよりも倍難しい。したがって、自らの知恵を出来る限り振り絞って書いたコードは、その定義上、自分自身でデバック出来ない。
+ url: http://bit.ly/arE1Gc
 91:
- contents: 
- url: 
+ contents: コーディングは常にこう、心がけるのだ。出来上がったコードを最後にメンテナンスするのが暴力的な精神病者で、そして、君の住所を知っていると。
+ url: http://bit.ly/arE1Gc
 92:
- contents: 
- url: 
+ contents: 初めの90%のコードは、開発時間の10%を占める。残りの10%のコードは、他の90%の開発時間を占める。
+ url: http://bit.ly/arE1Gc
 93:
- contents: 
- url: 
+ contents: この世には、2種類のプログラミング言語しかない。皆が常に不平を言う言語と、誰も使わない言語。 
+ url: http://bit.ly/arE1Gc
 94:
- contents: 
- url: 
+ contents: プログラマーの困った点は、手遅れになるまで、何をしているか、けして分からないことだ。 
+ url: http://bit.ly/arE1Gc
 95:
- contents: 
- url: 
+ contents: うまく行かなくても気にするな。全部うまく言ったら、君の仕事はなくなるのだから。 
+ url: http://bit.ly/arE1Gc
 96:
- contents: 
- url: 
+ contents: まずトラブルを解決し、それからコードを書け。
+ url: http://bit.ly/arE1Gc
 97:
- contents: 
- url: 
+ contents: 繰り返し処理は人の技。再帰的呼び出しは神の業。
+ url: http://bit.ly/arE1Gc
 98:
- contents: 
- url: 
+ contents: 下手なプログラムの作成を防げるプログラミング言語は存在しない。たとえどんなに構造化されていても。
+ url: http://bit.ly/arE1Gc
 99:
+ contents: C言語やC++で書くと言う事は、まるで、全ての安全装置が取り外されたチェーンソーで作り上げるようなものだ。
+ url: http://bit.ly/arE1Gc
+100:
+ contents: 優れたコードは、コード自身が最良のドキュメントとなっている。
+ url: http://bit.ly/arE1Gc
+101:
+ contents: 素晴らしいチームなしに、素晴らしいソフトウェアは生み出せない。そして、大部分の開発チームは機能不全の家族のように振舞う。
+ url: http://bit.ly/arE1Gc
+102:
+ contents: デバッグ作業が、バグを取り除く過程であるならば、プログラミングとは、バグを入れ込む過程でないとおかしい。
+ url: http://bit.ly/arE1Gc
+103:
+ contents: But what is it good for?
+ url: http://bit.ly/arE1Gc
+104:
+ contents: 一番だましやすいのは自分自身である 
+ url: http://bit.ly/bz540R
+105:
+ contents: 人を疑う前に、お前を疑え - チームプログラミング
+ url: http://bit.ly/bz540R 
+106:
+ contents: 電気は嘘をつかない。
+ url: http://bit.ly/bz540R
+107:
+ contents: ３度自分のソースを見直してから他人に文句を言え 
+ url: http://bit.ly/bz540R
+108:
+ contents: ソフトウェア開発に終わりはない。リリースがあるだけだ。
+ url: http://bit.ly/bz540R
+109:
+ contents: 人のバグ見て我がソース直せ
+ url: http://bit.ly/bz540R
+110:
+ contents: 自分のコードも１年経てば他人のコード 
+ url: http://bit.ly/bz540R
+111:
+ contents: 聞くは一時の恥。 聞かぬは一生のバグ。 
+ url: http://bit.ly/bz540R
+112:
+ contents: バグの出ない一番有効な方法はプログラムを書かないこと
+ url: http://bit.ly/bz540R
+113:
+ contents: バグは現象ではなく原因を直せ
+ url: http://bit.ly/bz540R
+114:
+ contents: 楽をするための苦労は惜しむな。
+ url: http://bit.ly/bz540R
+115:
+ contents: ソースは嘘をつかない 
+ url: http://bit.ly/bz540R
+116:
  contents: 
  url: 
-100:
+117:
+ contents: 
+ url: 
+118:
+ contents: 
+ url: 
+119:
+ contents: 
+ url: 
+120:
+ contents: 
+ url: 
+121:
+ contents: 
+ url: 
+122:
+ contents: 
+ url: 
+123:
  contents: 
  url: 
