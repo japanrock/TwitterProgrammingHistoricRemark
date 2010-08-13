@@ -14,7 +14,7 @@
  contents: 機能を追加しやすい構造になっていないプログラムに機能を追加しなければならなくなったら、まずプログラムをリファクタリングして作業をしやすくしてから追加すること by リファクタリング：Rubyエディション
  url: http://amzn.to/audtNq
 5:
- contents: リファクタリングするとき、最初の一歩はいつも同じだ。その部分のコードをためしにしっかりとしたテストセットを作ることである。テストはとても大切だ by リファクタリング：Rubyエディション 
+ contents: リファクタリングするとき、最初の一歩はいつも同じだ。その部分のコードのためにしっかりとしたテストセットを作ることである。テストはとても大切だ by リファクタリング：Rubyエディション 
  url: http://amzn.to/audtNq
 6:
  contents: リファクタリングでは、テストは命綱になる by リファクタリング：Rubyエディション 
@@ -121,3 +121,183 @@
 40:
  contents: 驚き最小の原則とは、ユーザインタフェースやプログラミング言語の設計および人間工学において、インタフェースの2つの要素が互いに矛盾あるいは不明瞭だったときに、その動作としては人間の ユーザやプログラマが最も自然に思える（驚きが少ない）ものを選択すべきだとする考え方である 
  url: --
+41:
+ contents: 
+ url:
+42:
+ contents: 
+ url: 
+43:
+ contents: 
+ url: 
+44:
+ contents: 
+ url: 
+45:
+ contents: 
+ url: 
+46:
+ contents: 
+ url: 
+47:
+ contents: 
+ url: 
+48:
+ contents: 
+ url: 
+49:
+ contents: 
+ url: 
+50:
+ contents: 
+ url: 
+51:
+ contents: 
+ url: 
+52:
+ contents: 
+ url: 
+53:
+ contents: 
+ url: 
+54:
+ contents: 
+ url: 
+55:
+ contents: 
+ url: 
+56:
+ contents: 
+ url: 
+57:
+ contents: 
+ url: 
+58:
+ contents: 
+ url: 
+59:
+ contents: 
+ url: 
+60:
+ contents: 
+ url: 
+61:
+ contents: 
+ url: 
+62:
+ contents: 
+ url: 
+63:
+ contents: 
+ url: 
+64:
+ contents: 
+ url: 
+65:
+ contents: 
+ url: 
+66:
+ contents: 
+ url: 
+67:
+ contents: 
+ url: 
+68:
+ contents: 
+ url: 
+69:
+ contents: 
+ url: 
+70:
+ contents: 
+ url: 
+71:
+ contents: 
+ url: 
+72:
+ contents: 
+ url: 
+73:
+ contents: 
+ url: 
+74:
+ contents: 
+ url: 
+75:
+ contents: 
+ url: 
+76:
+ contents: 
+ url: 
+77:
+ contents: 
+ url: 
+78:
+ contents: 
+ url: 
+79:
+ contents: 
+ url: 
+80:
+ contents: 
+ url: 
+81:
+ contents: 
+ url: 
+82:
+ contents: 
+ url: 
+83:
+ contents: 
+ url: 
+84:
+ contents: 
+ url: 
+85:
+ contents: 
+ url: 
+86:
+ contents: 
+ url: 
+87:
+ contents: 
+ url: 
+88:
+ contents: 
+ url: 
+89:
+ contents: 
+ url: 
+90:
+ contents: 
+ url: 
+91:
+ contents: 
+ url: 
+92:
+ contents: 
+ url: 
+93:
+ contents: 
+ url: 
+94:
+ contents: 
+ url: 
+95:
+ contents: 
+ url: 
+96:
+ contents: 
+ url: 
+97:
+ contents: 
+ url: 
+98:
+ contents: 
+ url: 
+99:
+ contents: 
+ url: 
+100:
+ contents: 
+ url: 
