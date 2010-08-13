@@ -122,13 +122,13 @@
  contents: 驚き最小の原則とは、ユーザインタフェースやプログラミング言語の設計および人間工学において、インタフェースの2つの要素が互いに矛盾あるいは不明瞭だったときに、その動作としては人間の ユーザやプログラマが最も自然に思える（驚きが少ない）ものを選択すべきだとする考え方である 
  url: --
 41:
- contents: 
- url:
+ contents: O(n)問題 - 特定のレコードを見つけ出すのに必要な処理も増えてしまう。コンピュータ科学では、これをO(n)問題と呼んでいる
+ url: http://amzn.to/a8culn
 42:
- contents: 
- url: 
+ contents: Web Document 構文チェック。W3C にツールがある。 
+ url: http://validator.w3.org/
 43:
- contents: 
+ contents:  
  url: 
 44:
  contents: 
