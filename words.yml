@@ -128,143 +128,140 @@
  contents: Web Document 構文チェック。W3C にツールがある。 
  url: http://validator.w3.org/
 43:
- contents:  
- url: 
+ contents: Opinionated Software（"こだわりのある"ソフトウェア） - Railsがそれである。フレームワークに乗っていれば楽ができるよという思想のソフトウエアである
+ url: http://bit.ly/dA0Wu7 
 44:
- contents: 
- url: 
+ contents: Restful - FieldingのREST原則に従うシステムは、しばしばRESTfulといわれる。RESTをとても熱心に支持する人々は自らのことをRESTafarians（レスタファリアン）と呼ぶ 
+ url: http://bit.ly/9GUboS
 45:
- contents: 
- url: 
+ contents: テスト駆動開発とは、プログラム開発手法の一種で、プログラム本体よりも先にテストケースを書くスタイルである。このスタイルをテストファーストともいう。多くのアジャイルソフトウェア開発手法。近年はビヘイビア駆動開発へと発展を遂げている 
+ url: http://bit.ly/czPno0 
 46:
- contents: 
- url: 
+ contents: メタプログラミングとはプログラミング技法の一種で、ロジックを直接コーディングするのではなく、あるパターンをもったロジックを生成する高位ロジックによってプログラミングを行う方法、またその高位ロジックを定義する方法のこと 
+ url: http://bit.ly/ctqOmF 
 47:
- contents: 
- url: 
+ contents: フルスタック - UIやDB、セキュリティなどの基本的な問題領域にAll in oneな環境を提供するもの 
+ url: http://bit.ly/caEjdu
 48:
- contents: 
- url: 
-49:
- contents: 
- url: 
+ contents: 関係データベースは関係モデル（リレーショナルデータモデル）にもとづいて設計（データベース設計）、開発されるデータベースである。例えば、MySQLやPostgreSQLです。
+ url: http://bit.ly/9eCx7u 
 50:
- contents: 
- url: 
+ contents: カオス理論は、決定論的な動的システムの一部に見られる、予測できない複雑な様子を示す現象を扱う理論である。カオス力学ともいう。 
+ url: http://bit.ly/92ziis
 51:
- contents: 
- url: 
+ contents: 複雑という敵
+ url: ソフトウエアの最大の的は複雑さです。人間の脳はあまり複雑なものを扱うことが出きないのです。記憶力と理解力に限界があるためです。人間は一度に把握できる概念の数に限界がありますし、複数のことを記憶しようとするとたいていいくつかは忘れてしまいます 
 52:
- contents: 
- url: 
+ contents: テストファーストの弊害 
+ url: http://bit.ly/d4Idmv
 53:
- contents: 
- url: 
+ contents: コンピュータが理解できるコードは誰でも書ける。優れたプログラマが書くのは、人間が理解できるコードだ
+ url: http://amzn.to/audtNq
 54:
- contents: 
- url: 
+ contents: 感性の高いプログラマは一度に三方を見る - 動作・保守・スピード 
+ url: http://bit.ly/cjlgZ6
 55:
- contents: 
- url: 
+ contents: プログラマの基礎体力 - コードを読むこと 
+ url: http://bit.ly/dvKKz7
 56:
- contents: 
- url: 
+ contents: プログラミングを継続する極意 - 1. プログラミング道具をキチンと揃える。 2. プログラミング道具の置き場所を決める。 3. 工夫しながらプログラミングする。 
+ url: http://bit.ly/cw9POM 
 57:
- contents: 
- url: 
+ contents: 良いプログラマとは、一方通行を渡るときに両側を見るような人である。 
+ url: http://bit.ly/9euyEm
 58:
- contents: 
- url: 
+ contents: 全てのコンピュータは同じ速度で待つ(waitする)。
+ url: http://bit.ly/9euyEm
 59:
- contents: 
- url: 
+ contents: 複雑なバグと仕様は一体である。
+ url: http://bit.ly/9euyEm
 60:
- contents: 
- url: 
+ contents: プログラムとは、データをエラーメッセージに変換するものである。
+ url: http://bit.ly/9euyEm
 61:
- contents: 
- url: 
+ contents: C言語を使うと自分の足を誤って撃ち抜いてしまうことがある。 C++を使えばそのような間違いを犯しにくくなる。しかし、やってしまったときには足全体が無くなる。
+ url: http://bit.ly/9euyEm
 62:
- contents: 
- url: 
+ contents: C.O.B.O.L - Completely(完全に) Obsolete(時代遅れで) Boring(つまらない) Old Language.
+ url: http://bit.ly/9euyEm
 63:
- contents: 
- url: 
+ contents: コンピュータは利口ではない。そう思い込んでいるだけだ。
+ url: http://bit.ly/9euyEm
 64:
- contents: 
- url: 
+ contents: コンピュータはとても高速にとても正確な間違いをおかす。
+ url: http://bit.ly/9euyEm
 65:
- contents: 
- url: 
+ contents: アップグレードの定義：古いバグを取り除き、新しいバグを入れること。
+ url: http://bit.ly/9euyEm
 66:
- contents: 
- url: 
+ contents: コンパイルが通った！出荷してしまえ！
+ url: http://bit.ly/9euyEm
 67:
- contents: 
- url: 
+ contents: プログラマを管理することは、猫の群れを牧畜するようなものだ。
+ url: http://bit.ly/9euyEm
 68:
- contents: 
- url: 
+ contents: 私のソフトウェアにはバグが無い。その場に応じてランダムな仕様が生み出されるだけだ。
+ url: http://bit.ly/9euyEm
 69:
- contents: 
- url: 
+ contents: 金曜日か月曜日に書かれたコードを実行してはいけない。
+ url: http://bit.ly/9euyEm
 70:
- contents: 
- url: 
+ contents: 人間は間違いを犯すものだ。。。間違いをコンピュータのせいにするのはもっと人間的だ。むしろ自然だ。
+ url: http://bit.ly/9euyEm
 71:
- contents: 
- url: 
+ contents: Most of you are familiar with the virtues of a programmer.  There are three, of course: laziness, impatience, and hubris. 
+ url: Larry Wall 
 72:
- contents: 
- url: 
+ contents: プログラミング作法とは、すなわち思考の抽象化の作法である。
+ url: 中村勇吾 
 73:
- contents: 
- url: 
+ contents: 作業は、いつだって予測以上に時間がかかるものだ。ホフスタッターの法則を計算に入れても 
+ url: ホフスタッターの法則
 74:
- contents: 
- url: 
+ contents: ポステルの法則- 送信するものに関しては厳密に、受信するものに関しては寛容に。
+ url: http://bit.ly/94vnFg
 75:
- contents: 
- url: 
+ contents: パーキンソンの法則 - 仕事の量は、完成のために与えられた時間をすべて満たすまで膨張する。 
+ url: http://bit.ly/94vnFg
 76:
- contents: 
- url: 
+ contents: パレートの法則 - 多くの現象では、結果の80％は原因の20％で決まっている。
+ url: http://bit.ly/94vnFg
 77:
- contents: 
- url: 
+ contents: スタージョンの法則 - どんなものも、その90％はカスである。
+ url: http://bit.ly/94vnFg
 78:
- contents: 
- url: 
+ contents: コンウェイの法則 - ソフトウェアのどの部分であれ、それを作った組織の構造を反映する
+ url: http://bit.ly/94vnFg
 79:
- contents: 
- url: 
+ contents: ケルクホフスの法則 - 暗号方式は、秘密鍵以外の全てが公知になったとして、なお安全であるべきである。 
+ url: http://bit.ly/94vnFg
 80:
- contents: 
- url: 
+ contents: リーナスの法則 - 目玉の数さえ十分あれば、どんなバグも深刻ではない。
+ url: http://bit.ly/94vnFg
 81:
- contents: 
- url: 
+ contents: リードの法則 - 大きなネットワークの有用性は、特にソーシャルネットワークの場合、ネットワークの大きさとともに指数関数的に増加する。
+ url: http://bit.ly/94vnFg
 82:
- contents: 
- url: 
+ contents: メトカーフの法則 - ネットワーク理論において、システムの価値はそのシステムのユーザ数の二乗近くに比例する。
+ url: http://bit.ly/94vnFg
 83:
- contents: 
- url: 
+ contents: ロックの法則 - マイクロプロセッサ製作にかかるコストは、4年ごとに2倍になる。
+ url: http://bit.ly/94vnFg
 84:
- contents: 
- url: 
+ contents: ヴィルトの法則 - ソフトウェアは、ハードウェアが高速化するより急速に低速化する。
+ url: http://bit.ly/94vnFg
 85:
- contents: 
- url: 
+ contents: ザウィンスキーの法則 - あらゆるプログラムは、それがメールを読めるところまで拡張しようとする。そこまで拡張できないプログラムは、それができるものにとってかわられる。
+ url: http://bit.ly/94vnFg
 86:
- contents: 
- url: 
+ contents: フィッツの法則 - 目標に到達するまでの時間は、目標までの距離と目標の大きさに依存する。
+ url: http://bit.ly/94vnFg
 87:
- contents: 
- url: 
+ contents: ヒックの法則 - 意思決定にかかる時間は、可能な選択肢の数に依存する。
+ url: http://bit.ly/94vnFg
 88:
- contents: 
- url: 
+ contents: プログラマの仕事はプログラムを読むことである 
+ url: http://bit.ly/9ORDuy
 89:
  contents: 
  url: 
