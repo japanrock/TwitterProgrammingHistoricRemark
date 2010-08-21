@@ -52,4 +52,4 @@ head     = programming_historic_remark.head
 url      = programming_historic_remark.selected_culture["url"]
 contents = programming_historic_remark.selected_culture["contents"]
 
-twitter_oauth.post(head + contents + " - " + url)
+twitter_oauth.post(head + contents + " " + url)
