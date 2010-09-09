@@ -518,35 +518,83 @@
  contents: ボランティア・コンピューティング とは、
  url: ボランティア・コンピューティング とは、計算に用いる資源を提供する人々(ボランティア)と、その資源の提供を受けるプロジェクト との間の協定であり、プロジェクトは提供を受けた資源を使って、分散コンピューティングあるいは分散ストレージを実施するというもの
 175:
- contents:  
- url: by Hadoop 
+ contents: グロビングとはパターンマッチによるファイル指定のこと 
+ url: http://bit.ly/dlDNUt
 176:
- contents: 
- url: by Hadoop
+ contents: 投機的実行は、コンピュータが実際にはその結果を捨ててしまうかもしれないコードを実行することである。 
+ url: http://bit.ly/dgFHTT
 177:
- contents: 
- url: by Hadoop
+ contents: 評価戦略：評価戦略は、プログラミング言語における式の評価を決定する（通常決定的な）規則群を意味する。
+ url: http://bit.ly/aQAVbw
 178:
- contents: 
- url: by Hadoop
+ contents: 正格な評価とは、関数の引数が常にその関数に引き渡される前に完全に評価されることを意味する。チャーチ符号化においては、演算子の先行評価は関数の正格な評価に写像される。そのため、正格な評価は「先行評価」とも呼ばれる。
+ url: http://bit.ly/aQAVbw
 179:
- contents: 
- url: by Hadoop
+ contents: 適用順序価とは、関数の引数を左から右に後順に走査して簡約可能な式を簡約していく評価戦略である。値渡しとは異なり、適用順序評価は関数を実際に適用する以前に可能な限り関数本体内の項数を減らそうとする。 
+ url: http://bit.ly/aQAVbw
 180:
- contents: 
- url: by Hadoop
+ contents: 値渡し評価は、C言語からSchemeまで多くの言語で採用されている典型的な評価戦略である。値渡しでは、引数の式を評価し、結果として得られた値で関数内の対応する変数を束縛する（通常、捕獲回避置換か新たなメモリ領域への値のコピーをする） 
+ url: http://bit.ly/aQAVbw
 181:
- contents: 
- url: by Hadoop
-182:
- contents: 
- url: by Hadoop
+ contents: 参照渡し価とは、関数に対して引数の値そのものではなく、引数の参照を暗黙のうちに渡すことをいう 
+ url: http://bit.ly/aQAVbw
 183:
- contents: 
- url: by Hadoop
+ contents: 遅延評価を行う利点は計算量の最適化である 
+ url: http://bit.ly/aQAVbw
 184:
- contents: 
- url: by Hadoop
+ contents: MIPSアーキテクチャはミップス・コンピュータシステムズおよびミップス・テクノロジーズが開発したRISCマイクロプロセッサのアーキテクチャである 
+ url: http://bit.ly/cyo2p6
 185:
  contents: 
- url: by Hadoop
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
+185:
+ contents: 
+ url: 
