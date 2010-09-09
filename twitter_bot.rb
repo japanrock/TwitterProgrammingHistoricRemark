@@ -40,7 +40,7 @@ class ProgrammingHistoricRemark
 
   # ポストする範囲を指定する
   def select
-    @select = rand(170)
+    @select = rand(185)
   end
 end
 
