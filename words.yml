@@ -704,11 +704,11 @@
  contents: 名前がなければ，パターンを使っていても，プログラマの意識に上らないことが多い 
  url: http://bit.ly/98am3s
 238:
- contents: 
- url:
+ contents: オープン・クローズ原則：モジュールは拡張に対して開いて（Open）おり，修正に対して閉じて（Closed）いなければならない 
+ url: http://bit.ly/dursNy
 239:
- contents: 
- url:
+ contents: ソフトウエア開発において，さまざまな問題の原因となるのは「複雑さ」と「変化」です 
+ url: http://bit.ly/dursNy
 240:
  contents: 
  url:
